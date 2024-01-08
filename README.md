@@ -2,9 +2,9 @@ Data Wrangling
 
 The dataset is provided above, the following was done to clean the dataset
 
-Established a consistent format for dates
-Populated property address data
-Separated address into individual columns (Address, City, State)
-Changed the values in "Sold as Vacant" column to Yes and No
-Removed duplicates
-Deleted unused columns
+1) Established a consistent format for dates
+2) Populated property address data
+3) Separated address into individual columns (Address, City, State)
+4) Changed the values in "Sold as Vacant" column to Yes and No
+5) Removed duplicates
+6) Deleted unused columns
